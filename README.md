@@ -13,12 +13,12 @@
 
 ## How to run 
 
-    1. Execute the Filtering_human_in_vehicle.ipynb script to process the video and generate the dataset.
-    2. View the Results
-    3. Open the new_dataset folder to see the results:
-        - Processed frames: new_dataset/images
-        - Label files: new_dataset/labels
-    4. Visualized images (with bounding boxes): new_dataset/visualizations
+ - Execute the Filtering_human_in_vehicle.ipynb script to process the video and generate the dataset.
+-  View the Results
+-  Open the new_dataset folder to see the results:
+    - Processed frames: new_dataset/images
+    - Label files: new_dataset/labels
+- Visualized images (with bounding boxes): new_dataset/visualizations
 
 ### Sample Images
 

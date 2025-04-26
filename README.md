@@ -1,4 +1,5 @@
 
+
 # YOLO RoadNet
 
 - Developed a real-time object detection system using YOLOv8 to accurately detect pedestrians and vehicles (cars, buses motorcycles, etc.) with high precision.
@@ -7,9 +8,21 @@
 
 ## Requirements
 
-- OpenCV (pip install opencv-python)
-- Ultralyitcs YOLO (pip install ultralytics and pip install YOLO)
-- tqdm (pip install tqdm)
+- Install OpenCV 
+
+    ```bash
+        pip install opencv-python
+    ``` 
+- Install Ultralyitcs YOLO
+
+    ```bash
+        pip install ultralytics and pip install YOLO
+    ```
+- tqdm
+
+    ```bash
+        pip install tqdm
+    ``` 
 
 ## How to run 
 
@@ -25,3 +38,4 @@
 ![0029](https://github.com/raktimyoddha07/YOLO_RoadNet/raw/main/sample-1.jpg)
 
 ![0823](https://github.com/raktimyoddha07/YOLO_RoadNet/raw/main/sample-2.jpg)
+
